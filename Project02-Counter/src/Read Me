@@ -1,1 +1,2 @@
-
+Counter
+A Java implementation of a basic tally counter with methods to increment, decrement, reset, and retrieve the current count.
